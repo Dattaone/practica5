@@ -1,4 +1,3 @@
-//funcion para Mostrar Archivos Adjuntos
 function mostrarNombreArchivo() {
     var archivoInput = document.getElementById('archivo');
     var archivoSeleccionadoSpan = document.getElementById('archivoSeleccionado');
